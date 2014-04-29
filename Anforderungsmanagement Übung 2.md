@@ -68,7 +68,7 @@ b) Welche Arten zur Darstellung von Anforderungen haben Sie in der Vorlesung ken
 ## Aufgabe 3 ##
 Bei der Definition des System Engineering Prozesses der INCOSE kommt der ersten Phase "Stating the problem" eine besondere Bedeutung zu.
 
-a) Welche Aktivitäten enthält diese erste Phase und welche Rollen sind typischerweise in dieser Phase beteiligt?
+a) Welche Aktivitäten enthält diese erste Phase und welche Rollen sind typischerweise in dieser Phase beteiligt? (S. 17)
 ### Lösung:
 #### Aktivitäten
 - Kunden identifizieren
