@@ -1,6 +1,7 @@
 # Anforderungsmanagement Übung 2 #
 ## Aufgabe 1  (Aufgabe 4 aus übungsblatt 1) ##
 In der Vorlesung haben Sie gesehen, dass "Die wirtschaftliche Wirkung von Requirements Engineering ist immer indirekt! Das RE kostet zunächst nur!"
+
 a) Begründen Sie mit Hilfe eines Projektbeispiels, warum diese Aussage korrekt ist.
 ### Lösung:
 
