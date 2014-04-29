@@ -69,6 +69,16 @@ b) Welche Arten zur Darstellung von Anforderungen haben Sie in der Vorlesung ken
 Bei der Definition des System Engineering Prozesses der INCOSE kommt der ersten Phase "Stating the problem" eine besondere Bedeutung zu.
 a) Welche Aktivitäten enthält diese erste Phase und welche Rollen sind typischerweise in dieser Phase beteiligt?
 ### Lösung:
+#### Aktivitäten
+- Kunden identifizieren
+- Wünsche der Kunden verstehen
+- die Notwendigkeit für die Entwicklung belegen
+- Anforderungen ermitteln
+- Systemfunktionen definieren
+
+#### Rollen (http://www.incose.org/educationcareers/PDF/12-roles.pdf)
+- Requirements Owner
 
 b) INCOSE behauptet: "Stating the problem is the most important systems engineering task". Begründen oder widerlegen Sie diese Aussage. Verwenden Sie in Ihrer Begründung Erfahrungen aus Ihrer eigenen beruflichen Praxis, wenn möglich.
 ### Lösung:
+Die Aussage ist wahr. In dieser Phase werden die Projektziele festgesetzt. Zur Herstellung eines Produktes muss klar sein, welche Zielsetzung das Produkt erfüllt. Werden die Ziele eindeutig und vollständig verständlich kommuniziert so kann mit entsprechender fachlicher Qualifikation des Auftragnehmers ein Produkt entwickelt werden, welches den Zielsetzungen des Kunden entspricht.
