@@ -1,16 +1,5 @@
 # Anforderungsmanagement Übung 2 #
 ## Aufgabe 1  (Aufgabe 4 aus übungsblatt 1) ##
-In der Vorlesung haben Sie gesehen, dass "Die wirtschaftliche Wirkung von Requirements Engineering ist immer indirekt! Das RE kostet zunächst nur!"
-
-a) Begründen Sie mit Hilfe eines Projektbeispiels, warum diese Aussage korrekt ist.
-### Lösung:
-
-b) Sie sind Projektleiter in der IT –Abteilung eines Softwarehauses. Stellen Sie sich eine Projektsituation vor, in der Sie die Leitung der IT überzeugen möchten, dass zukünftig mindestens 10% des Gesamtprojektaufwandes für Anforderungsmanagement eingeplant werden muss.
-Beschreiben Sie Ihr Vorgehen.
-### Lösung:
-
-c) Erstellen Sie passend zu Ihrem Vorgehen eine Kurzpräsentation, mit der Sie die Leitung der IT überzeugen möchten. Das Format, Aussehen, Art, ... der Präsentation ist Ihnen überlassen.
-### Lösung:
 
 ## Aufgabe 2 ##
 Anforderungsmanagement kann auf verschiedene Weise aus verschiedenen Sichten definiert werden. Zudem gibt es verschiedene Arten Anforderungen darzustellen.
